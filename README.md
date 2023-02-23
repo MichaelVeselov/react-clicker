@@ -1,6 +1,6 @@
 # Clicker
 
-## Simple React App - <a href="http://example.com" target="_blank">Demo</a>
+## Simple React App - [Demo](https://doka.guide)
 
 ### App Clicker with +, - and Reset buttons using React + Vite
 
