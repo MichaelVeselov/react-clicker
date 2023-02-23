@@ -1,6 +1,6 @@
 # Clicker
 
-## Simple React App - [Demo](https://doka.guide)
+## Simple React App - [Demo](https://mve-react-clicker.vercel.app/)
 
 ### App Clicker with +, - and Reset buttons using React + Vite
 
