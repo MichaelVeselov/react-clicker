@@ -16,7 +16,6 @@ lerna-debug.log*
 # production
 /build
 /dist
-/screenshot
 
 # misc
 .env

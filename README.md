@@ -1,8 +1,6 @@
 # Clicker
 
-## React Demo App
-
-[Demo](https://doka.guide)
+## Simple React App - [Demo](https://doka.guide)
 
 ### App Clicker with +, - and Reset buttons using React + Vite
 
